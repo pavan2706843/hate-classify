@@ -1,0 +1,38 @@
+Hate Classify: A Service Framework for Hate Speech Identification on Social Media
+
+IEEE Internet Computing,Volume:25,Issue:1,Issude Date:Jan.-Feb.1.2021
+
+
+
+Hate_Classify
+
+hate_classify
+
+
+Hate Speech --0
+Offensive --1
+Non Offensive -- 2,Normal
+
+
+     
+
+
+
+Hate Classification Type :: hate speech, offensive, or nonoffensive
+
+
+
+hate_classify_prediction
+---------
+
+Tweet_Message
+Prediction
+
+
+
+Models
+
+
+hate_classify_prediction,detection_ratio,detection_accuracy
+
+
